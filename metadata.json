@@ -1,0 +1,8 @@
+{
+  "name": "Bluewhite AI Assistant",
+  "description": "An AI agent with a superhero personality that helps you with system tasks like cleaning, optimization, and virus scanning through voice commands.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
